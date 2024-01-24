@@ -28,3 +28,4 @@ D:\SoftUni\Text-Splitter-App\TextSplitterApp\TextSplitterApp\obj\Debug\net6.0\re
 D:\SoftUni\Text-Splitter-App\TextSplitterApp\TextSplitterApp\obj\Debug\net6.0\TextSplitterApp.pdb
 D:\SoftUni\Text-Splitter-App\TextSplitterApp\TextSplitterApp\obj\Debug\net6.0\TextSplitterApp.genruntimeconfig.cache
 D:\SoftUni\Text-Splitter-App\TextSplitterApp\TextSplitterApp\obj\Debug\net6.0\ref\TextSplitterApp.dll
+D:\SoftUni\Text-Splitter-App\TextSplitterApp\TextSplitterApp\obj\Debug\net6.0\TextSplitterApp.sourcelink.json

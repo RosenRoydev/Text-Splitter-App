@@ -19,6 +19,7 @@ namespace TextSplitterApp.Controllers
            return View(model);
         }
 
+        [HttpPost]
         public IActionResult Split(TextViewModel model) 
         {
             var splitTextArray = model
